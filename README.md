@@ -1,3 +1,4 @@
+ https://travis-ci.org/xxczaki/music-player.svg?branch=master <---WHY?
  ***Android Music Player*** 
 DOWNLOAD: https://play.google.com/store/apps/details?id=com.akepinski.music.music
 License: Apache 2.0
