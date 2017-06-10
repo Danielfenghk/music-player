@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/xxczaki/music-player.svg?branch=master)](https://travis-ci.org/xxczaki/music-player) <---WHY?
+
  
- ***Android Music Player*** 
+# Android Music Player
 DOWNLOAD: https://play.google.com/store/apps/details?id=com.akepinski.music.music
 License: Apache 2.0
 Any questions: www.akepinski.pl/kontakt
